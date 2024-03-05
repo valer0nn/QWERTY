@@ -3,4 +3,6 @@
 int main()
 {
     std::cout << "Hello Sergius26!\n";
+    std::cout << "Hello valer0nn!\n";
+
 }
